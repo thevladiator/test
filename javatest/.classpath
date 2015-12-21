@@ -11,5 +11,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/features"/>
 	<classpathentry kind="output" path="classes"/>
 </classpath>
