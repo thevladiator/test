@@ -10,7 +10,7 @@ public class TestMe {
 		Feature feature = new Feature();
 		feature.setName("Vlad");
 		feature.setCounter(2);
-		System.out.println("Me: " + feature.toString());
+		System.out.println("Me now: " + feature.toString());
 	}
 
 }
