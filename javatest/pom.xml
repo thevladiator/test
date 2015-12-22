@@ -16,10 +16,4 @@
       </plugin>
     </plugins>
   </build>
-  <dependencies>
-  	<dependency>
-  		<groupid>features</groupid>
-  		<artifactId>features</artifactId>
-  	</dependency>
-  </dependencies>
 </project>
