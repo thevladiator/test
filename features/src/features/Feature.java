@@ -18,7 +18,7 @@ public class Feature {
 	}
 	
 	public String toString() {
-		return "Featuring now changes: " + name + " " + counter;
+		return "Featuring my changes: " + name + " " + counter;
 	}
 	
 
