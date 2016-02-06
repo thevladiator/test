@@ -2,6 +2,11 @@ package vlad;
 
 import features.Feature;
 
+/**
+ * This is a test class
+ * @author vlad.georgescu
+ *
+ */
 public class TestMe {
 
 	public static void main(String[] args) {
