@@ -3,7 +3,7 @@ package vlad;
 import features.Feature;
 
 /**
- * This is a test class
+ * This is a test class.
  * @author vlad.georgescu
  *
  */
