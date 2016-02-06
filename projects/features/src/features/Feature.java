@@ -1,5 +1,8 @@
 package features;
 
+/**
+ * This is my Feature class.
+ */
 public class Feature {
 	
 	private String name;
