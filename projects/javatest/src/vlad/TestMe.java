@@ -6,7 +6,7 @@ import features.Feature;
  * This is a test class.
  * @author vlad.georgescu
  * 
- * Another comment added today.
+ * Another comment added today really.
  *
  */
 public class TestMe {
