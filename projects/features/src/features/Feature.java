@@ -2,6 +2,7 @@ package features;
 
 /**
  * This is my Feature class. It is the best class.
+ * Added description.
  */
 public class Feature {
 	
