@@ -7,7 +7,7 @@ import features.Feature;
  * @author vlad.georgescu
  * 
  * Let's see here
- * Another comment.
+ * Another comment added today.
  *
  */
 public class TestMe {
